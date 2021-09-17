@@ -220,7 +220,7 @@ Done. Your build exited with 0.
 
 While this mechanism is powerful, it is still considered "Experimental" and is currently only able to be manipulated from the CLI, but with Travis you can integrate this within your build, and make things a little less complicated. 
 
-If you have any questions please email me at [mailto:montana@travis-ci.org](montana@travis-ci.org). 
+If you have any questions please email me at [montana@travis-ci.org](mailto:montana@travis-ci.org). 
 
 Happy building!
 
